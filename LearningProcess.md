@@ -12,5 +12,3 @@ for too long.
 4. According to the video, what are the steps to take when approaching a new topic? Only mention the points.
 ->
 
-5. 
-
