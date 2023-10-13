@@ -12,4 +12,4 @@ for too long.
 4. According to the video, what are the steps to take when approaching a new topic? Only mention the points.
 5. ->
 5. What are some of the actions you can take going forward to improve your learning process?
--> Learning using Feynman Technique.
+   Learning using Feynman Technique. aditya
