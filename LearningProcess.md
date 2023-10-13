@@ -10,5 +10,6 @@ for too long.
 -> As Barbara Oakely described while trying to get new ideas about something our brain is constantly shifting between two states. One is active mode in which brain is focused .other is diffused in which brain is less focused but can link thoughts/points further away from the topic. This can be helpful if we are stuck at somthing. 
 
 4. According to the video, what are the steps to take when approaching a new topic? Only mention the points.
+5. ->
+5. What are some of the actions you can take going forward to improve your learning process?
 ->
-
