@@ -13,11 +13,26 @@
 * Note the points of speaker either on paper or mentally. Take a confirmation from the speaker upon that if possible.
 
 **3. What are the obstacles in your listening process?**
-I  sometimes drift in my own thoughts resulting in missing some important points in the conversation.
+I sometimes drift in my own thoughts resulting in missing some important points in the conversation.
+   
 **4. What can you do to improve your listening?**
 I will try to actively listen and note the important points of the conversation.
+
 **5. When do you switch to Passive communication style in your day to day life?**
-**6.When do you switch to Passive communication style in your day to day life?**
+ It happens when I am talking to my superiors when give some task to me. It sometimes also happens with my parents when they ask something from me.
+ 
+**6.When do you switch into Aggressive communication styles in your day to day life?**
+It happens when I am not satisfied with someones work.
+
 **7. When do you switch into Passive Aggressive (sarcasm/gossiping/taunts/silent treatment and others) communication styles in your day to day life?**
+When between friends talking sometime I use Passive Aggressive tones.
+
 **8. How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life?**
+* We need to tell our needs and feelings to the person to make the point clear
+* Use right tone and body language without being highly emotional.
+* Don't wait for too long as it can cause to problem to grow and get out of our hands enventually.
+* To practice assertive communication start with low stacks and people and situations which are easy to deal with. We can progress to complex conversations later.
+
+I will try to apply some of the points metioned above in my life such as using right words and body posture of convey what I need and do it in time so as later I don't have to deal with bigger problems. 
+
 
