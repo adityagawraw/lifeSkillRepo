@@ -6,7 +6,7 @@
     
 **2. What would you do in case you face or witness any incident or repeated incidents of such behaviour?**
 
-Report it to concerned authorites about the details.
+Report it to concerned authorites related to the details.
 
 **3. Explains different scenarios enacted by actors.**
 
@@ -22,6 +22,7 @@ Report it to concerned authorites about the details.
      * Test the Water
      
 **4. How to handle cases of harassment?**
+
     * Tell the person directly about it and ask to stop it.
     * Report to the employer the employer in documented form if it does not stop.
     * Don't be afraid to speakup as it can get worse as the time   	passes.  
