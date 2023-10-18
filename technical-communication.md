@@ -144,3 +144,9 @@ System.out.println(s.getName());
 Here, by using private on our variables and getters and setter methods for those variables we can choose how to share the variables and change those variables.
  
 ### Conclusion
+
+Use of OOPs concepts helps programmer tackle complex functionality in a structured way and therefore recommended to learn it. This blog just scraches the surface of OOPs and we can do much more with it.
+
+Links:-
+1. [(https://www.javatpoint.com/java-oops-concepts)] 
+2. [(https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)]
