@@ -13,6 +13,18 @@ are in a spectrum and not one or the other.
 Internal locus of control is the believe of an individual that only my own efforts are going to effect my outcomes and not the outside factors.
 
 In the video having an internal locus of control in our work and believing in our efforts is depicted as key point. 
+
 **4. What are the key points mentioned by speaker to build growth mindset (explanation not needed).**
+
+* Believe in our own potential to learn.
+* Don't make assumptions about our own future.
+* Develope curriculum to learn things.
+* Try not to get discouragred by failures but consider it as opportunity to learn. 
+
 **5. What are your ideas to take action and build Growth Mindset?**
+
+* Take problems during programming as opportunity learn and use tools like Documentation, Stackoverflow, etc. to solve the problem.
+* Believe in my own potential and give time to learn skills.
+* Don't get discouraged by failures.
+* Stay focused while learning skill to learn them properly.  
 
